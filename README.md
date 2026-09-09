@@ -30,9 +30,9 @@ a daily AI briefing that reads my own numbers back to me. *Next.js · Postgres �
 | Project | What it is |
 |---|---|
 | **Schooldesk** | The staff and guardian apps — NFC attendance, canteen POS, transport, visitor logs, and a real-time school–guardian diary. 3,600+ monthly actives, 15,000+ push subscribers, 1,500+ commits across 6 repos. |
-| **Trinity** | A social-impact platform and my largest single codebase — 537 commits, 60k+ net lines of TypeScript. |
+| **MyShabo** | A social-impact mobile app for community engagement and giving — my largest single codebase, 537 commits and 60k+ net lines of React Native and TypeScript. |
 | **Testoria** | An online examination suite: exam platform, candidate app, admin console, NestJS/Prisma backend. |
-| **Diffstone** | A real-estate platform — React/TypeScript client, Laravel backend, marketing site. 380+ commits. |
+| **[PropEarnly](https://propearnly.com)** | A real-estate platform for listing, discovering and managing properties — React/TypeScript client, Laravel backend, marketing site. 380+ commits. |
 
 ### What I reach for
 
