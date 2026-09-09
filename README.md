@@ -1,13 +1,17 @@
 ### Hi, I'm Dieu-Donne 👋
 
-I build web, mobile, and desktop products — and lead the teams that keep them running.
-Seven years of it now, mostly in React, TypeScript, Node, and Laravel, from Accra.
+Somewhere in Ghana this morning, a student tapped an NFC card at a school gate and a guardian's
+phone lit up with it. That's **Schooldesk** — 3,600 people use it every month, and I've been the
+engineer on its staff and guardian apps since 2018.
 
-These days I run engineering at **BenchFive**, where eight of us ship and maintain 12+ client
-products across EdTech, real estate, logistics, and SaaS. I'm also a core engineer on
-**Schooldesk**, a school management platform I've been building on since 2018.
+I build web, mobile, and desktop products, and I lead the teams that keep them running. Seven
+years of it now, mostly React, TypeScript, Node and Laravel, out of Accra. These days I run
+engineering at **BenchFive**: eight of us, 12+ client products live across EdTech, real estate,
+logistics and SaaS, on infrastructure I keep above 97% uptime.
 
-Most of my work lives in private repos, so here's what I'd show you instead.
+The rest of my time goes to tools for the way I actually work — which is how **wTerm** happened.
+
+Most of that is in private repos. Here's what I can show you.
 
 ---
 
@@ -30,8 +34,8 @@ a daily AI briefing that reads my own numbers back to me. *Next.js · Postgres �
 | Project | What it is |
 |---|---|
 | **Schooldesk** | The staff and guardian apps — NFC attendance, canteen POS, transport, visitor logs, and a real-time school–guardian diary. 3,600+ monthly actives, 15,000+ push subscribers, 1,500+ commits across 6 repos. |
-| **MyShabo** | A social-impact mobile app for community engagement and giving — my largest single codebase, 537 commits and 60k+ net lines of React Native and TypeScript. |
-| **Testoria** | An online examination suite: exam platform, candidate app, admin console, NestJS/Prisma backend. |
+| **[Kargonet](https://mykargonet.com)** | A logistics platform for booking and tracking freight, built mobile-first in React Native and TypeScript. 151 commits. |
+| **[Testoria](https://testoria.benchfive.org)** | An online examination suite and my largest single codebase — 1,025 commits across an exam platform, candidate app, admin console, and NestJS/Prisma backend. |
 | **[PropEarnly](https://propearnly.com)** | A real-estate platform for listing, discovering and managing properties — React/TypeScript client, Laravel backend, marketing site. 380+ commits. |
 
 ### What I reach for
