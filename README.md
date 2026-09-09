@@ -1,5 +1,3 @@
-<img src="banner.svg" alt="Dieu-Donne Nazzah — full-stack engineer & CTO, Accra, Ghana" width="100%" />
-
 ### Hi, I'm Dieu-Donne 👋
 
 I build web, mobile, and desktop products — and lead the teams that keep them running.
